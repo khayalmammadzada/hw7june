@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{F40D527D-2FDE-44E2-8510-F23A22619C78}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="lessontask/Program.cs">
+    <Files>
+      <File FileName="lessontask/Program.cs" Line="6" Column="6" />
+      <File FileName="lessontask/Student.cs" Line="38" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="lessontask" expanded="True">
+            <Node name="lessontask" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.lessontask FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
